@@ -2,8 +2,11 @@ My Goals in this project.
 Just type challenge and set local configuration and documentation  
 Thanks for [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges)
 
+- [ジェネリクス仕事ですぐに使える TypeScript ドキュメント](https://future-architect.github.io/typescript-guide/generics.html)
+
 - [x] 13
-- [ ] x 4 [ジェネリクス仕事ですぐに使える TypeScript ドキュメント](https://future-architect.github.io/typescript-guide/generics.html)
+- [x] 4
+- [x] 7
 
 <hr />
 
