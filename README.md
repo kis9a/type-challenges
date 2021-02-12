@@ -12,6 +12,7 @@ Thanks for [type-challenges/type-challenges](https://github.com/type-challenges/
 - [x] 43
 - [x] 189
 - [x] 268
+- [x] 533
 
 <hr />
 
