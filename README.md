@@ -20,7 +20,7 @@ easy<!--{{{-->
 medium<!--{{{-->
 
 - [x] 8-medium-readonly-2 x
-- [ ] 9-medium-deep-readonly
+- [x] 9-medium-deep-readonly
 - [x] 10 touple-to-union
 - [ ] 645-medium-diff
 - [ ] 62-medium-type-lookup
