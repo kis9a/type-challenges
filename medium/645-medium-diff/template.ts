@@ -9,4 +9,4 @@ type Bar = {
   age: string
   gender: number
 }
-type test0 = Diff<Foo, Bar>   // { gender: number }
+type test0 = Diff<Foo, Bar> // { gender: number }

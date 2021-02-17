@@ -2,7 +2,10 @@ My Goals in this project.
 Just type challenge and set local configuration and documentation  
 Thanks for [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges)
 
+reference
+
 - [ジェネリクス仕事ですぐに使える TypeScript ドキュメント](https://future-architect.github.io/typescript-guide/generics.html)
+- [実務で使用することが多い TypeScript の型まとめ - Qiita](https://qiita.com/r_ueyama/items/bb693fb012fd3605cd00)
 
 easy<!--{{{-->
 
@@ -19,30 +22,55 @@ easy<!--{{{-->
 
 medium<!--{{{-->
 
-- [x] 8-medium-readonly-2 x
+- [x] 8-medium-readonly-2
 - [x] 9-medium-deep-readonly
 - [x] 10 touple-to-union
-- [ ] 645-medium-diff
-- [ ] 62-medium-type-lookup
-- [ ] 612-medium-kebabcase
-- [ ] 610-medium-camelcase
-- [ ] 599-medium-merge
-- [ ] 527-medium-append-to-object
-- [ ] 459-medium-flatten
-- [ ] 3-medium-omit
-- [ ] 298-medium-length-of-string
-- [ ] 296-medium-permutation
-- [ ] 20-medium-promise-all
-- [ ] 2-medium-return-type
-- [ ] 191-medium-append-argument
-- [ ] 16-medium-pop
-- [ ] 15-medium-last
-- [ ] 12-medium-chainable-options
-- [ ] 119-medium-replaceall
-- [ ] 116-medium-replace
+- [x] 106-medium-trimleft
+- [x] 108-medium-trim
 - [ ] 110-medium-capitalize
-- [ ] 108-medium-trim
-- [ ] 106-medium-trimleft
+- [ ] 116-medium-replace
+- [ ] 119-medium-replaceall
+- [ ] 12-medium-chainable-options
+- [ ] 15-medium-last
+- [ ] 16-medium-pop
+- [ ] 191-medium-append-argument
+- [ ] 2-medium-return-type
+- [ ] 20-medium-promise-all
+- [ ] 296-medium-permutation
+- [ ] 298-medium-length-of-string
+- [ ] 3-medium-omit
+- [ ] 459-medium-flatten
+- [ ] 527-medium-append-to-object
+- [ ] 599-medium-merge
+- [ ] 610-medium-camelcase
+- [ ] 612-medium-kebabcase
+- [ ] 62-medium-type-lookup
+- [x] 645-medium-diff
+<!--}}}-->
+
+extra<!--{{{-->
+
+- [ ] 112-hard-capitalizewords
+- [ ] 114-hard-camelcase
+- [ ] 147-hard-c-printf-parser
+- [ ] 17-hard-currying-1
+- [ ] 213-hard-vue-basic-props
+- [ ] 223-hard-isany
+- [ ] 270-hard-typed-get
+- [ ] 300-hard-string-to-number
+- [ ] 399-hard-tuple-filter
+- [ ] 472-hard-tuple-to-enum-object
+- [ ] 545-hard-printf
+- [ ] 55-hard-union-to-intersection
+- [ ] 553-hard-deep-object-to-unique
+- [ ] 57-hard-get-required
+- [ ] 59-hard-get-optional
+- [ ] 6-hard-simple-vue
+- [ ] 651-hard-length-of-string-2
+- [ ] 730-hard-union-to-tuple
+- [ ] 847-hard-string-join
+- [ ] 89-hard-required-keys
+- [ ] 90-hard-optional-keys
 <!--}}}-->
 
 bottom<!--{{{-->
